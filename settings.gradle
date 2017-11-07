@@ -1,0 +1,8 @@
+include  ':pathdemo',  ':bletest',':drawabledemo', ':myview'
+
+
+include ':bluetooth4_3'
+//include ':todo'
+
+//include ':socketTest'
+include ':rebootSystem'

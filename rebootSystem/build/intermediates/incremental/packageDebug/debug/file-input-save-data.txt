@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Tue Nov 07 18:12:53 CST 2017
+2.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+5.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+6.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+7.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\AndroidManifest.xml
+5.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\resources.arsc
+9.set=ANDROID_RESOURCE
+9.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+10.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+2.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+8.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+3.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\fragment_main.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+9.base=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_
+4.file=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\res\\debug\\resources-debug.ap_\\res\\layout\\view_float.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE

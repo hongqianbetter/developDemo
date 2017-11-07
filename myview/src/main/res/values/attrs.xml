@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyButton">
+        <attr name="title" format="string" />
+        <attr name="textSize" format="dimension" />
+        <!--可以是引用(的资源如@color或者@drawable)-->
+        <attr name="gBackground" format="reference|color" />
+    </declare-styleable>
+
+
+    <declare-styleable name="PlaceHolderView">
+        <attr name="emptyText" format="integer"/>
+        <attr name="errorText" format="integer"/>
+        <attr name="loadingText" format="integer"/>
+        <attr name="emptyDrawable" format="integer"/>
+        <attr name="errowDrawable" format="integer"/>
+    </declare-styleable>
+</resources>

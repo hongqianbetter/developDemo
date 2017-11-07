@@ -1,0 +1,4 @@
+#Tue Nov 07 18:12:53 CST 2017
+base.0=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\WorkSpace\\developDemo\\rebootSystem\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

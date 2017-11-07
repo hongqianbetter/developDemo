@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bletest/bletest.iml" filepath="$PROJECT_DIR$/bletest/bletest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bluetooth4_3/bluetooth4_3.iml" filepath="$PROJECT_DIR$/bluetooth4_3/bluetooth4_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/developDemo.iml" filepath="$PROJECT_DIR$/developDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawabledemo/drawabledemo.iml" filepath="$PROJECT_DIR$/drawabledemo/drawabledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myview/myview.iml" filepath="$PROJECT_DIR$/myview/myview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pathdemo/pathdemo.iml" filepath="$PROJECT_DIR$/pathdemo/pathdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rebootSystem/rebootSystem.iml" filepath="$PROJECT_DIR$/rebootSystem/rebootSystem.iml" />
+    </modules>
+  </component>
+</project>
